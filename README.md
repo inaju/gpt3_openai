@@ -1,5 +1,5 @@
 ![](http://i.imgur.com/OUkLi.gif)
-![](https://github.com/inaju/gpt3_openai/blob/main/src/assets/gpt3_openai_video.mp4)
+![](https://github.com/inaju/gpt3_openai/blob/main/src/assets/gpt3_openai_gif.gif)
 
 # Getting Started with Create React App
 
