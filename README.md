@@ -1,3 +1,6 @@
+![](http://i.imgur.com/OUkLi.gif)
+![](https://github.com/inaju/gpt3_openai/blob/main/src/assets/gpt3_openai_video.mp4)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
